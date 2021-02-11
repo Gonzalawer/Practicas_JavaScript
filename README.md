@@ -1,1 +1,3 @@
-# practivas_javascript
+# Practivas Javascript
+
+Repositorio backup de practias con JavaScript
